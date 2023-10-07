@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/englishdictionary/static/css/main.6622dc3e.css",
+    "main.js": "/englishdictionary/static/js/main.2e011504.js",
+    "index.html": "/englishdictionary/index.html",
+    "main.6622dc3e.css.map": "/englishdictionary/static/css/main.6622dc3e.css.map",
+    "main.2e011504.js.map": "/englishdictionary/static/js/main.2e011504.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6622dc3e.css",
+    "static/js/main.2e011504.js"
+  ]
+}
